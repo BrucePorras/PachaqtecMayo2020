@@ -1,2 +1,2 @@
 # PachaqtecMayo2020
-# Bruce porras
+# Bruce Porras
