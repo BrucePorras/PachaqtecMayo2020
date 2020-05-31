@@ -1,1 +1,1 @@
-print("hola")
+import this 
